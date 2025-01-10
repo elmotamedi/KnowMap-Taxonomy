@@ -1,7 +1,7 @@
 # KnowMap Taxonomy
 KnowMap is a knowledge field taxonomy that aligns with the widely used CPC schema.
 
-If you use this implementation in your work, please consider citing the following paper:
+If you use this implementation in your work, cite the following paper:
 
 ### Citation
 **Elham Motamedi, Inna Novalija, Luis Rei (2024).**  
