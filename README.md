@@ -17,3 +17,5 @@ Presented at the **Slovenian KDD Conference**, 2024.
   booktitle = {Slovenian KDD Conference},
   year={2024}
 }
+APA:
+Motamedi, E., Novalija, I., & Rei, L. (2024). Classification of Patents Into Knowledge Fields: Using a Proposed Knowledge Mapping Taxonomy (KnowMap). Presented at the Slovenian KDD Conference.
