@@ -9,7 +9,7 @@ If you use this implementation in your work, cite the following paper:
 Presented at the **Slovenian KDD Conference**, 2024.  
 [DOI: 10.70314/is.2024.sikdd.19](https://doi.org/10.70314/is.2024.sikdd.19)
 
-APA:
+### APA:
 Motamedi, E., Novalija, I., & Rei, L. (2024). Classification of Patents Into Knowledge Fields: Using a Proposed Knowledge Mapping Taxonomy (KnowMap). Presented at the Slovenian KDD Conference.
 
 ### BibTeX
