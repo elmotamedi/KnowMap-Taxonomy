@@ -3,7 +3,7 @@ KnowMap is a knowledge field taxonomy that aligns with the widely used CPC schem
 
 If you use this implementation in your work, cite the following papers:
 
-### Citation1
+### Ref1
 [https://is.ijs.si/?p=16611](https://is.ijs.si/?p=16611)
 
 ### APA:
@@ -18,7 +18,7 @@ Motamedi, E., Novalija, I., & Rei, L. (2024). Classification of Patents Into Kno
   year={2024}
 }
 ```
-### Citation2
+### Ref2
 https://ceur-ws.org/Vol-3967/PD_paper_177.pdf
 
 ### APA:
