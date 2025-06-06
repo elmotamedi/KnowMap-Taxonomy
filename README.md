@@ -32,6 +32,6 @@ Motamedi, E., Novalija, I., & Rei, L. (2024). Taxonomy for patent classification
   series    = {CEUR Workshop Proceedings},
   volume    = {3967},
   year      = {2024},
-  publisher = {CEUR-WS.org},
+  publisher = {CEUR-WS},
   url       = {https://ceur-ws.org/Vol-3967/}
 }
